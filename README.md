@@ -1,4 +1,4 @@
-# vue-material-theming
+# Vue Material Theming
 
 > A Vue.js project with Vue-Material installed and a custom theme added on top of that
 
